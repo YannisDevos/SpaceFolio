@@ -14,14 +14,14 @@
 }
 
 .jr{
-    background: url("img/studies/jr.jpg") no-repeat center;
+    background: url("../img/studies/jr.jpg") no-repeat center;
     background-size: cover;
     border-bottom-left-radius: 30px;
     border-top-left-radius: 30px;
 }
 
 .iut{
-    background: url("img/studies/iut.jpg") no-repeat center;
+    background: url("../img/studies/iut.jpg") no-repeat center;
     background-size: cover;
     border-bottom-right-radius: 30px;
     border-top-right-radius: 30px;
