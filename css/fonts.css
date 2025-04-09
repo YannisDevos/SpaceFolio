@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "SpaceGrotesk";
+    src:
+      local("SpaceGrotesk"),
+      url("/font/SpaceGrotesk/SpaceGrotesk-Regular.ttf") format("truetype");
+  }
+
+body{
+  font-family: SpaceGrotesk;
+}
