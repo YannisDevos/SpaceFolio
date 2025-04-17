@@ -1,0 +1,24 @@
+@media screen and (max-width: 80rem) {
+    .flip-card, .flip-card-back{
+        width: 150px;
+        height: 150px;
+        font-size: 10px;
+    }
+
+    .flip-card-front>img{
+        width: 100px;
+        height: 100px;
+    }
+
+    .cards{
+        margin: 1%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
+    }
+
+    .flip-card{
+        margin: 10px;
+    }
+}
